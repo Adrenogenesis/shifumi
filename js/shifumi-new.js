@@ -1,30 +1,25 @@
 /*
-Puissance 4
-créer tableau
-var x;
-var y;
-
-for (x=0, x<=42, x++)
-if clicked >= change x++ +2
-
-for (y=0, y<=42, y++)
-
-function add(x,y){
+ DOM
+      shi-fu-mi
+      mobile-first
+      button effet hover
+      vous / ia et nouvelle partie
+	  
+	  //Déclaration des éléments du DOM
 
 
-
-
-       console.log(x+y);
- }
-
-var cars = ["BMW", "Volvo", "Saab", "Ford"];
-var i = 0;
-var text = "";
-
-for (;cars[i];) {
-    text += cars[i] + "<br>";
-    i++;
-}
+//TODO: Fonction Jeu
+  //TODO: Choix de l'IA -> iaChoice
+  //TODO: récupérer le choix du joueur -> playerChoice
+  //TODO: Comparer les choix (playerChoice, iaChoice)-> winnerIs
+     //TODO: Si : Cas égalité
+     //TODO: Sinon Si : Cas de victoire 
+     //TODO: Sinon : Cas de défaite
+  //TODO: Afficher les résultats
+  //TODO: Afficher le choix du joueur (playerChoice)
+    //TODO: Afficher le choix de l'IA (iaChoice)
+    //TODO: Afficher le résultat
+//TODO: Fonction restart
 
 */
 const buttons = document.querySelectorAll("button");
